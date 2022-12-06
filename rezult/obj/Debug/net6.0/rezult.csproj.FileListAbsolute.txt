@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Block_results\rezult\bin\Debug\net6.0\rezult.exe
+C:\Users\HP\Desktop\Block_results\rezult\bin\Debug\net6.0\rezult.deps.json
+C:\Users\HP\Desktop\Block_results\rezult\bin\Debug\net6.0\rezult.runtimeconfig.json
+C:\Users\HP\Desktop\Block_results\rezult\bin\Debug\net6.0\rezult.dll
+C:\Users\HP\Desktop\Block_results\rezult\bin\Debug\net6.0\rezult.pdb
+C:\Users\HP\Desktop\Block_results\rezult\obj\Debug\net6.0\rezult.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Block_results\rezult\obj\Debug\net6.0\rezult.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Block_results\rezult\obj\Debug\net6.0\rezult.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Block_results\rezult\obj\Debug\net6.0\rezult.AssemblyInfo.cs
+C:\Users\HP\Desktop\Block_results\rezult\obj\Debug\net6.0\rezult.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Block_results\rezult\obj\Debug\net6.0\rezult.dll
+C:\Users\HP\Desktop\Block_results\rezult\obj\Debug\net6.0\refint\rezult.dll
+C:\Users\HP\Desktop\Block_results\rezult\obj\Debug\net6.0\rezult.pdb
+C:\Users\HP\Desktop\Block_results\rezult\obj\Debug\net6.0\rezult.genruntimeconfig.cache
+C:\Users\HP\Desktop\Block_results\rezult\obj\Debug\net6.0\ref\rezult.dll
